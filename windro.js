@@ -166,7 +166,7 @@ NullModzLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${enco
    //dont forget to put my name(NullModz) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 👽'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./NullMedia/theme/cheems.xlsx'),
