@@ -41,7 +41,7 @@ global.location = "India, Kerala, Kozhikode" //ur location
 //bot bomdy 
 global.owner = ['918606413490']
 global.ownertag = '918606413490' //ur tag number
-global.botname = '⎿𝐍𝐔𝐋𝐋 𝐌𝐎𝐃𝐙 𝐌𝐃⏋' //ur bot name
+global.botname = '⎿𝐍𝐔𝐋𝐋 𝐌𝐃⏋' //ur bot name
 global.linkz = "https://teamnullmodz.netlify.app/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://teamnullmodz.netlify.app/" //ur website to be displayed
 global.botscript = 'https://github.com/NULLMODZ/NULL-MODZ-MD' //script link
